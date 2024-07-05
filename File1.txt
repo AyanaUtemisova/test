@@ -1,5 +1,5 @@
 123456
 789
-.
+commit test
 Add Line
 My name is Anton
